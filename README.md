@@ -1,4 +1,3 @@
-# UNMAINTAINED
 
 # Microservices architecture based web application
 
