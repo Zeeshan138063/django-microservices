@@ -29,3 +29,8 @@ For testing:
 API endpoints: please see /api/v1/{services}/docs/ 
 
 Deployed and tested in a real production server.
+
+
+Helpful resources.
+ 
+01. ([Best Practices for Building a Microservice Architecture](https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#requirements))
